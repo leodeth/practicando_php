@@ -22,6 +22,5 @@ foreach ($counts as $value => $count) {
 //echo "unique values: " , implode(", ", $uniques) , "\n";
 //echo "duplicate values: " , implode(", ", $duplicates);
 
-
 echo "unique values: " , implode($uniques) , "\n";
 echo "duplicate values: " , implode($duplicates);
