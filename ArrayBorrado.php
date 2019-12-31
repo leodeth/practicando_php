@@ -19,4 +19,3 @@ foreach ($array2 as $valor) {
 	}
 }
 print_r($array1);
-
